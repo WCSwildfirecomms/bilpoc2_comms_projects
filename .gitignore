@@ -1,0 +1,24 @@
+# Ignore R environment files
+.Rproj.user/
+.Rhistory
+.RData
+
+# Ignore Python virtual environment files
+venv/
+env/
+
+# Ignore data files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.feather
+*.rds
+*.sqlite
+*.sqlite3
+*.json
+
+# Ignore generated files
+*.pyc
+__pycache__/
+.DS_Store
